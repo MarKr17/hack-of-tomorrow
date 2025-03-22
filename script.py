@@ -1,4 +1,3 @@
-usta@ustachow:~$ cat script.py
 import requests
 import hashlib
 
